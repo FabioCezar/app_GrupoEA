@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/i_inicio_localizador"
+        android:icon="@drawable/ic_inicio"
+        android:title="Início" />
+    <item
+        android:id="@+id/i_localizar_localizador"
+        android:icon="@drawable/ic_buscar"
+        android:title="Localizar" />
+    <item
+        android:id="@+id/i_perfil_localizador"
+        android:icon="@drawable/ic_perfil"
+        android:title="Perfil" />
+</menu>

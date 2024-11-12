@@ -1,0 +1,52 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable/edit_text.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable/ic_buscar.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable/ic_inicio.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/drawable/ic_perfil.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/activity_administrador.xml" value="0.3234375" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/activity_localizador.xml" value="0.25" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/activity_splash.xml" value="0.3328125" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/activity_usuario.xml" value="0.3375" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/fragment_inicio.xml" value="0.3323076923076923" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/fragment_localizar.xml" value="0.3323076923076923" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/fragment_localizar_localizador.xml" value="0.33" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/layout/fragment_perfil.xml" value="0.3323076923076923" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/mipmap-anydpi-v26/ic_ea.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/mipmap-anydpi-v26/ic_ea_round.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/EA/Desktop/Android Studio/AplicativoEA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/activity_localizador.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/activity_localizar.xml" value="0.25" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/activity_localizar_nucleo.xml" value="0.25" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/activity_nucleo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/activity_splash.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_buscar_localizador.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_inicio_localizador.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_inicio_nucleo.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_localizar_localizador.xml" value="0.25" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_localizar_nucleo.xml" value="0.25" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_perfil_localizador.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/layout/fragment_perfil_nucleo.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/menu/bottom_nav_menu_localizador.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/mipmap-anydpi-v26/ic_ea.xml" value="0.240625" />
+        <entry key="..\:/Users/EA/Desktop/AplicativoEA/app/src/main/res/mipmap-anydpi-v26/ic_ea_round.xml" value="0.240625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

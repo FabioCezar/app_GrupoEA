@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Bem-vindo"
+        android:textColor="#E86C24"
+        android:textSize="40sp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40sp"
+        android:gravity="center"
+        android:text="Faça login para continuar"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/et_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_marginHorizontal="20dp"
+        android:background="@drawable/edit_text"
+        android:textColorHint="#706A6A"
+        android:gravity="center"
+        android:hint="Usuário"
+
+        android:maxLength="20"
+        android:textColor="@color/black"
+        android:padding="10dp"/>
+
+    <EditText
+        android:id="@+id/et_senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_text"
+        android:gravity="center"
+        android:hint="Senha"
+        android:textColorHint="#706A6A"
+        android:inputType="textPassword"
+        android:maxLength="20"
+        android:textColor="@color/black"
+        android:padding="10dp" />
+
+
+    <Button
+        android:id="@+id/bt_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:backgroundTint="@color/ea"
+        android:text="entrar" />
+
+    <ProgressBar
+        android:id="@+id/pb_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:indeterminateTint="#E86C24"
+        android:visibility="invisible"/>
+
+</LinearLayout>
